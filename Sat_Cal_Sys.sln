@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sat_Cal_Sys", "Sat_Cal_Sys.pyproj", "{1D270B42-6C24-4F53-A24F-D8AD570129DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{90F0CE21-6B05-4D34-8172-2BFB245F51E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D270B42-6C24-4F53-A24F-D8AD570129DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D270B42-6C24-4F53-A24F-D8AD570129DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5E7F05-1A39-4BF1-B84E-1689A3FC6F1C}
+	EndGlobalSection
+EndGlobal
